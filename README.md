@@ -22,5 +22,7 @@ CC test05
 aalvin: test1
 aalvin: test2
 jesse: test 01
+jesse: test 02 local
+
 
 carol: test123
