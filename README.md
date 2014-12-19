@@ -9,6 +9,8 @@ fixed issue#1
 
 test 
 
+hello!!
+
 aalvin:HEY!!
 
 CC test01
