@@ -21,8 +21,6 @@ CC test01
 CC test02
 CC test03
 
-Alvin: test
-Alvin: test2
-Alvin: test3
-
 CC test04
+
+aalvin: test1
