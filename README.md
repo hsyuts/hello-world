@@ -10,3 +10,5 @@ fixed issue#1
 test 
 
 Terry: HI!!
+
+Terry: HELLO!!
