@@ -9,13 +9,7 @@ fixed issue#1
 
 test 
 
-Terry: HI!!
 aalvin:HEY!!
-Terry: HELLO!!
-
-Terry: WHATSUP!!
-
-Terry: NI-HOW!!
 
 CC test01
 CC test02
